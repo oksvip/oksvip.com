@@ -1,0 +1,2101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Up Optimizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-06 19:01+0530\n"
+"PO-Revision-Date: 2017-05-06 19:04+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 22377\n"
+"X-Loco-Api-Version: 1.0.17 20170505-1\n"
+"X-Poedit-KeywordsList: __;_e;.;gettext\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/mailer-translations.php:12
+msgid "for "
+msgstr "para"
+
+#: includes/mailer-translations.php:13 includes/translations.php:553
+msgid "1 Hour"
+msgstr "1 Jam"
+
+#: includes/mailer-translations.php:14 includes/translations.php:554
+msgid "12 Hours"
+msgstr "12 Jam"
+
+#: includes/mailer-translations.php:15 includes/translations.php:555
+msgid "24 Hours"
+msgstr "24 Jam"
+
+#: includes/mailer-translations.php:16 includes/translations.php:556
+msgid "48 Hours"
+msgstr "48 Jam"
+
+#: includes/mailer-translations.php:17 includes/translations.php:557
+msgid "1 Week"
+msgstr "1 Minggu"
+
+#: includes/mailer-translations.php:18 includes/translations.php:558
+msgid "1 Month"
+msgstr "1 Bulan"
+
+#: includes/mailer-translations.php:19 includes/translations.php:559
+msgid "Permanently"
+msgstr "Secara Permanen"
+
+#: includes/translations.php:192
+msgid "If Interested, Kindly click "
+msgstr "Se estiver interessado, por favor clique"
+
+#: includes/translations.php:193
+msgid "here."
+msgstr "Aqui."
+
+#: includes/translations.php:202 includes/translations.php:210
+msgid "Language Interested to Translate"
+msgstr "Linguagem Interessada em Traduzir"
+
+#: includes/translations.php:203 includes/translations.php:211
+msgid "Please enter the language you want to translate."
+msgstr "Introduza o idioma que pretende traduzir."
+
+#: includes/translations.php:204 includes/translations.php:212
+msgid "Please enter the language"
+msgstr "Introduza o idioma"
+
+#: includes/translations.php:205 includes/translations.php:215
+msgid "Query"
+msgstr "Inquerir"
+
+#: includes/translations.php:206 includes/translations.php:216
+msgid "Please enter your query."
+msgstr "Introduza a sua consulta."
+
+#: includes/translations.php:207 includes/translations.php:217
+msgid "Please enter the query."
+msgstr "Introduza a consulta."
+
+#: includes/translations.php:208 includes/translations.php:218
+msgid "Please enter your Name."
+msgstr "Por favor, insira seu nome."
+
+#: includes/translations.php:209 includes/translations.php:219
+msgid "Please enter your Email."
+msgstr "Por favor introduza o seu e-mail."
+
+#: includes/translations.php:213
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your Request"
+msgstr ""
+"Neste campo, você precisará fornecer seu Nome que será enviado juntamente "
+"com o seu Pedido"
+
+#: includes/translations.php:214
+msgid ""
+"In this field, you would need to provide your valid Email Address which will "
+"be sent along with your Request"
+msgstr ""
+"Neste campo, você precisará fornecer seu endereço de e-mail válido que será "
+"enviado juntamente com o seu pedido"
+
+#: includes/translations.php:220
+msgid "Close"
+msgstr "Fechar"
+
+#: includes/translations.php:221
+msgid "Important Disclaimer!"
+msgstr "Aviso Importante!"
+
+#: includes/translations.php:222
+msgid "Are you sure you want to close without sending Translation Request?"
+msgstr "Tem certeza de que deseja fechar sem enviar solicitação de tradução?"
+
+#: includes/translations.php:223
+msgid "Translation Request"
+msgstr "Pedido de tradução"
+
+#: includes/translations.php:224
+msgid "Blockage Settings have been updated Successfully"
+msgstr "Pengaturan Pemblokiran telah berhasil diperbaharui"
+
+#: includes/translations.php:225
+msgid "IP Address has been blocked Successfully"
+msgstr "Alamat IP berhasil di blok"
+
+#: includes/translations.php:226
+msgid "IP Range has been blocked Successfully"
+msgstr "Range IP berhasil di blok"
+
+#: includes/translations.php:227
+msgid "IP Address has been deleted Successfully"
+msgstr "Alamat IP berhasil dihapus"
+
+#: includes/translations.php:228
+msgid "IP Range has been deleted Successfully"
+msgstr "Range IP berhasil dihapus"
+
+#: includes/translations.php:229
+msgid "Other Settings have been updated Successfully"
+msgstr "Pengaturan Lainnya berhasil diperbaharui"
+
+#: includes/translations.php:230
+msgid "Your request email has been sent Successfully"
+msgstr "Email permintaan anda telah berhasil dikirim"
+
+#: includes/translations.php:231
+msgid "Selected scheduler has been deleted Successfully"
+msgstr "Penjadwalan (Scheduler) yang dipilih berhasil dihapus"
+
+#: includes/translations.php:232
+msgid "Selected Data has been cleaned Successfully"
+msgstr "Data yang dipilih berhasil dibersihkan"
+
+#: includes/translations.php:233
+msgid "Selected Tables have been optimized Successfully"
+msgstr "Beberapa Table yang dipilih berhasil dioptimalisasikan"
+
+#: includes/translations.php:234
+msgid "Selected Table has been optimized Successfully"
+msgstr "Table yang dipilih berhasil dioptimalisasikan"
+
+#: includes/translations.php:235
+msgid "Selected Table has been repaired Successfully"
+msgstr "Table yang dipilih berhasil diperbaiki"
+
+#: includes/translations.php:236
+msgid "Selected Tables have been repaired Successfully"
+msgstr "Beberapa Table yang dipilih berhasil diperbaiki"
+
+#: includes/translations.php:237
+msgid "A Scheduler has been deleted Successfully"
+msgstr "Penjadwlan (Scheduler) berhasil dihapus"
+
+#: includes/translations.php:238
+msgid "Auto Drafts have been cleaned Successfully"
+msgstr "Draft Otomatis berhasil dibersihkan"
+
+#: includes/translations.php:239
+msgid "Dashboard Transient Feed has been cleaned Successfully"
+msgstr "Dasbor Umpan (Feed) Sementara telah berhasil dibersihkan"
+
+#: includes/translations.php:240
+msgid "Unapproved Comments have been cleaned Successfully"
+msgstr "Komentar yang belum disetujui berhasil dibersihkan"
+
+#: includes/translations.php:241
+msgid "Orphan Comments Meta has been cleaned Successfully"
+msgstr "Meta Komentar yang Usang telah berhasil dibersihkan"
+
+#: includes/translations.php:242
+msgid "Orphan Posts Meta has been cleaned Successfully"
+msgstr "Meta Tulisan (Posts) yang Usang telah berhasil dibersihkan"
+
+#: includes/translations.php:243
+msgid "Orphan Relationships have been cleaned Successfully"
+msgstr "Table Relationship yang usang berhasil dibersihkan"
+
+#: includes/translations.php:244
+msgid "Revisions have been cleaned Successfully"
+msgstr "Revisi telah berhasil dibersihkan"
+
+#: includes/translations.php:245
+msgid "Pingbacks have been cleaned Successfully"
+msgstr "Pingback berhasil dibersihkan"
+
+#: includes/translations.php:246
+msgid "Transient Options have been cleaned Successfully"
+msgstr "Opsi Sementara berhasil dibersihkan"
+
+#: includes/translations.php:247
+msgid "Trackbacks have been cleaned Successfully"
+msgstr "Trackbacks (Pelacakan) berhasil dibersihkan"
+
+#: includes/translations.php:248
+msgid "Spam Comments have been cleaned Successfully"
+msgstr "Komentar Spam berhasil sibersihkan"
+
+#: includes/translations.php:249
+msgid "Trash Comments have been cleaned Successfully"
+msgstr "Komentar Sampah berhasil dibersihkan"
+
+#: includes/translations.php:250
+msgid "Drafts have been cleaned Successfully"
+msgstr "Draft berhasil dibersihkan"
+
+#: includes/translations.php:251
+msgid "Deleted Posts have been cleaned Successfully"
+msgstr "Os bornes eliminados foram limpos com sucesso"
+
+#: includes/translations.php:252
+msgid "Duplicated Post Meta has been cleaned Successfully"
+msgstr "Tulisan Duplikat berhasil dibersihkan"
+
+#: includes/translations.php:253
+msgid "oEmbed Caches in Post Meta have been cleaned Successfully"
+msgstr "Cache yang tersimpan di Meta Post berhasil dibersihkan"
+
+#: includes/translations.php:254
+msgid "Duplicated Comment Meta has been cleaned Successfully"
+msgstr "Meta Komentar yang duplikat berhasil dibersihkan"
+
+#: includes/translations.php:255
+msgid "Orphan User Meta has been cleaned Successfully"
+msgstr "Meta Pengguna yang usang berhasil dibersihkan"
+
+#: includes/translations.php:256
+msgid "Duplicated User Meta has been cleaned Successfully"
+msgstr "Meta Pengguna yang duplikat berhasil dibersihkan"
+
+#: includes/translations.php:257
+msgid "Orphaned Term Relationships have been cleaned Successfully"
+msgstr "Term Relationship yang usah berhasil dibersihkan"
+
+#: includes/translations.php:258
+msgid "Unused Terms have been cleaned Successfully"
+msgstr "Term yang tidak digunakan berhasil dibersihkan"
+
+#: includes/translations.php:259
+msgid "Please choose an Action from Dropdown!"
+msgstr "Silahkan pilih Aksi dari pilihan berikut"
+
+#: includes/translations.php:260
+msgid "Please choose at least 1 type of Data to Clean!"
+msgstr "Mohon pilih paling tidak 1 tipe data untuk dibersihkan"
+
+#: includes/translations.php:261
+msgid "Are you sure you want to Clean?"
+msgstr "Apakah anda yakin akan dibersihkan?"
+
+#: includes/translations.php:262
+msgid "Are you sure you want to delete?"
+msgstr "Apakah anda yakin untuk menghapus?"
+
+#: includes/translations.php:263
+msgid "Are you sure you want to perform this action?"
+msgstr "Apakah anda yakin untuk melakukan aksi ini?"
+
+#: includes/translations.php:264
+msgid "Please choose at least 1 record to repair!"
+msgstr "Mohon pilih paling tidak 1 catatan untuk diperbaiki!"
+
+#: includes/translations.php:265
+msgid "Please choose at least 1 record to optimize!"
+msgstr "Mohon pilih paling tidak 1 catatan untuk optimalkan!"
+
+#: includes/translations.php:266
+msgid "Please choose at least 1 schedule to delete!"
+msgstr "Mohon pilih paling tidak 1 jadwal untuk dihapus!"
+
+#: includes/translations.php:267
+msgid "Location"
+msgstr "Lokasi"
+
+#: includes/translations.php:268
+msgid "Latitude"
+msgstr "Garis Lintang"
+
+#: includes/translations.php:269
+msgid "Longitude"
+msgstr "Garis Bujur"
+
+#: includes/translations.php:270
+msgid "HTTP User Agent"
+msgstr "HTTP User Agent"
+
+#: includes/translations.php:271
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/translations.php:272
+msgid "Please provide valid IP Address"
+msgstr "Harap memberikan alamat IP yang valid"
+
+#: includes/translations.php:273
+msgid "Error Message"
+msgstr "Pesan eror"
+
+#: includes/translations.php:274
+msgid "This IP Address has been already blocked!"
+msgstr "Alamat IP ini sudah di blok sebelumnya"
+
+#: includes/translations.php:275
+msgid "Notification!"
+msgstr "Pemberitahuan!"
+
+#: includes/translations.php:276
+msgid "Please provide valid IP Range"
+msgstr "Harap memberikan Range IP yang valid"
+
+#: includes/translations.php:277
+msgid "This IP Range has been already blocked!"
+msgstr "Range IP ini sudah pernah di blok sebelumnya"
+
+#: includes/translations.php:278
+msgid "Success!"
+msgstr "Sukses!"
+
+#: includes/translations.php:279
+msgid "Error logs has been cleared Successfully"
+msgstr "Eror log berhasil dibersihkan"
+
+#: includes/translations.php:280
+msgid "Selected Table has been Deleted Successfully"
+msgstr "Table yang dipilih berhasil dihapus"
+
+#: includes/translations.php:281
+msgid "Please choose at least 1 record to delete!"
+msgstr "Mohon pilih paling tidak 1 catatan untuk dihapus"
+
+#: includes/translations.php:282
+msgid "Selected Tables have been deleted Successfully"
+msgstr "Table yang dipilih berhasil dihapus"
+
+#: includes/translations.php:283
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Fitur ini hanya tersedia di dalam Edisi Premium! <br> Silahkan Lakukan "
+"Pembelian untuk membukanya!"
+
+#: includes/translations.php:284
+msgid "A Traffic Log has been deleted Successfully"
+msgstr "Riwayat penelusuran telah berhasil dihapus"
+
+#: includes/translations.php:285
+msgid "A Visitor Log has been deleted Successfully"
+msgstr "Riwayat Pengunjung telah berhasil dihapus"
+
+#: includes/translations.php:286
+msgid "A Login Log has been deleted Successfully"
+msgstr "Riwayat Login telah berhasil disimpan"
+
+#: includes/translations.php:290
+msgid "Database - View Records"
+msgstr "Database - Lihat Catatan"
+
+#: includes/translations.php:291
+msgid "Rows"
+msgstr "Baris"
+
+#: includes/translations.php:292
+msgid "Table Size"
+msgstr "Ukuran Table"
+
+#: includes/translations.php:293
+msgid "<< Back to Manual Clean Up"
+msgstr "<< Kembali ke Pembersihan cara Manual"
+
+#: includes/translations.php:295
+msgid "<< Back to Database Optimizer"
+msgstr "<< Kembali ke Optimalisasi Database"
+
+#: includes/translations.php:296
+msgid "Wordpress - Add New Schedule"
+msgstr "Wordpress - Tambah Jadwal Baru"
+
+#: includes/translations.php:297
+msgid "Wordpress - Update Schedule"
+msgstr "Wordpress - Perbaharui Jadwal"
+
+#: includes/translations.php:298
+msgid "Database - Add New Schedule"
+msgstr "Database - Tambah Jadwal Baru"
+
+#: includes/translations.php:299
+msgid "Database - Update Schedule"
+msgstr "Database - Perbaharui Jadwal"
+
+#: includes/translations.php:303
+msgid "Login Logs On World Map"
+msgstr "Log Login di Peta Dunia"
+
+#: includes/translations.php:304
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about users who logged within a specified period"
+msgstr ""
+"Di bagian ini, anda diminta untuk menentukan tanggal awal untuk melihat "
+"informasi mengenai pengguna yang berhasil login dalam jangka waktu tertentu"
+
+#: includes/translations.php:305
+msgid ""
+"In this field, you would need to specify end date to view information about "
+"users who logged within a specified period"
+msgstr ""
+"Di bagian ini, anda diminta untuk menentukan tanggal akhir untuk melihat "
+"informasi mengenai pengguna yang berhasil login dalam jangka waktu tertentu"
+
+#: includes/translations.php:309
+msgid "Live Traffic On World Map"
+msgstr "Pengunjung Langsung Pada Peta Dunia"
+
+#: includes/translations.php:310
+msgid "Resources"
+msgstr "Sumber"
+
+#: includes/translations.php:311
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to Other Settings Menu to "
+"enable it"
+msgstr ""
+"Pemantau Pengunjung Langsung satusnya Dimatikan. Silahkan pergi ke Menu "
+"Pengaturan Lain untuk menyalakannya"
+
+#: includes/translations.php:315
+msgid ""
+"In this field, you would need to specify start date to view information "
+"about users who visit to your website within a specified period"
+msgstr ""
+"Di bagian ini, anda diminta untuk menentukan tanggal awal untuk melihat "
+"informasi mengenai pengguna yang berkunjung ke website anda  dalam jangka "
+"waktu tertentu"
+
+#: includes/translations.php:316
+msgid ""
+"In this field, you would need to specify end date to view information about "
+"users who visit to your website within a specified period"
+msgstr ""
+"Di bagian ini, anda diminta untuk menentukan tanggal akhir untuk melihat "
+"informasi mengenai pengguna yang berkunjung ke website anda  dalam jangka "
+"waktu tertentu"
+
+#: includes/translations.php:317
+msgid "Visitor Logs On World Map"
+msgstr "Log Pengunjung Pada Peta Dunia"
+
+#: includes/translations.php:318
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to Other Settings Menu to "
+"enable it"
+msgstr ""
+"Log Pemantau Pengunjung satusnya Dimatikan. Silahkan pergi ke Menu "
+"Pengaturan Lain untuk menyalakannya"
+
+#: includes/translations.php:322
+msgid "Email when a user Fails Login"
+msgstr "Kirimkan Email ketika pengguna gagal untuk login"
+
+#: includes/translations.php:323
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika pengguna gagal login"
+
+#: includes/translations.php:324
+msgid "Email when a user Success Login"
+msgstr "Kirim Email ketika pengguna berhasil login"
+
+#: includes/translations.php:325
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika pengguna berhasil login"
+
+#: includes/translations.php:326
+msgid "Email when an IP Address is Blocked"
+msgstr "Kirim Email ketika alamat IP diblok"
+
+#: includes/translations.php:327
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika Alamat IP sedang diblok"
+
+#: includes/translations.php:328
+msgid "Email when an IP Address is Unblocked"
+msgstr "Kirim Email ketika Alamat IP dibuka blokirannya"
+
+#: includes/translations.php:329
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika Alamat IP dibuka blokirannya"
+
+#: includes/translations.php:330
+msgid "Email when an IP Range is Blocked"
+msgstr "Kirim Email ketika Range IP di Blok"
+
+#: includes/translations.php:331
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika Range IP diblok"
+
+#: includes/translations.php:332
+msgid "Email when an IP Range is Unblocked"
+msgstr "E-mail quando um intervalo de IP é desbloqueado"
+
+#: includes/translations.php:333
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memilih untuk mengaktifkan pengiriman "
+"email otomatis kepada Administrator ketika Range IP dibuka blokirannya"
+
+#: includes/translations.php:337
+msgid "For Maximum Login Attempts Error Message"
+msgstr "Pesan Untuk Maksimal Eror Percobaan Login"
+
+#: includes/translations.php:338
+msgid ""
+"In this field, you would need to provide an error message that you would "
+"like to display whenever a user exceeds maximum number of login attempts"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memberikan pesan kesalahan yang ingin "
+"anda perlihatkan ketika pengguna telah mencapai batas maksimal percobaan "
+"login"
+
+#: includes/translations.php:339
+msgid "Please provide your Login Attempts Error Message"
+msgstr "Silahkan masukan Pesan Untuk Kesalahan (error) Percobaan Login"
+
+#: includes/translations.php:341
+msgid "For Blocked Country Error Message"
+msgstr "Mensagem de Erro de País Bloqueado"
+
+#: includes/translations.php:342
+msgid ""
+"In this field, you would need to provide an error message that you would "
+"like to display whenever a user country is being blocked by the Administrator"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memberikan pesan kesalahan yang ingin "
+"anda perlihatkan ketika negara pengguna sedang di blok oleh Administrator"
+
+#: includes/translations.php:343
+msgid "Please provide your Blocked Country Error Message"
+msgstr "Silahkan masukan Pesan Kesalahan (error) untuk Negara yang diblok"
+
+#: includes/translations.php:345
+msgid "For Blocked IP Address Error Message"
+msgstr "Pesan Error untuk Alamat IP yang diblok"
+
+#: includes/translations.php:346
+msgid ""
+"In this field, you would need to provide an error message that you would "
+"like to display whenever a user IP Address is being blocked by the "
+"Administrator"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memberikan pesan kesalahan yang ingin "
+"anda perlihatkan ketika Alamat IP Pengguna sedang di blok oleh Administrator"
+
+#: includes/translations.php:347
+msgid "Please provide your Blocked IP Address Error Message"
+msgstr "Silahkan masukan Pesan Kesalahan (error) untuk Alamat IP yang diblok"
+
+#: includes/translations.php:349
+msgid "For Blocked IP Range Error Message"
+msgstr "Pesan Error untuk Range IP yang diblok"
+
+#: includes/translations.php:350
+msgid ""
+"In this field, you would need to provide an error message that you would "
+"like to display whenever a user IP Range is being blocked by the "
+"Administrator"
+msgstr ""
+"Pada Bagian ini, anda diminta untuk memberikan pesan kesalahan yang ingin "
+"anda perlihatkan ketika Range IP Pengguna sedang di blok oleh Administrator"
+
+#: includes/translations.php:351
+msgid "Please provide your Blocked IP Range Error Message"
+msgstr "Silahkan masukan Pesan Kesalahan (error) untuk Range IP yang diblok"
+
+#: includes/translations.php:355 includes/translations.php:517
+msgid "Trackbacks"
+msgstr "Trackback"
+
+#: includes/translations.php:356
+msgid ""
+"Trackbacks are a way to notify legacy blog systems that you have linked to "
+"them. If you would like to enable trackbacks to your site then you would "
+"need to choose enable or vice-versa from drop-down"
+msgstr ""
+"Trackbacks adalah cara untuk memberitahukan pemilik blog bahwa anda "
+"memberikan link kepadanya. Jika anda ingin mengaktifkan fungsi Trackback "
+"untuk situs anda, maka anda harus memilih mengaktifkannya atau "
+"menonaktifkannya pada menu pilihan ini"
+
+#: includes/translations.php:357
+msgid ""
+"If you would like to allow people to comment on your posts or pages then you "
+"would need to choose enable or vice-versa from dropdown"
+msgstr ""
+"Jika anda ingin memperbolehkan pengunjung untuk memberikan komentar pada "
+"Tulisan (post) atau Halaman (page) maka anda harus memilih mengaktifkan atau "
+"nonaktifkan pada pilihan ini"
+
+#: includes/translations.php:358
+msgid "Automatic Plugin Updates"
+msgstr "Update Plugin Otomatis"
+
+#: includes/translations.php:359
+msgid ""
+"If you would like that the plugin would be automatically updated whenever "
+"there is a new version available then you would need to choose enable or "
+"vice-versa from dropdown"
+msgstr ""
+"Jika anda menginginkan pembaharuan otomatis untuk plugin ketika ada versi "
+"terbaru, maka anda harus memilih untuk mengaktifkan atau menonaktifkan pada "
+"pilihan ini"
+
+#: includes/translations.php:360
+msgid "Live Traffic Monitoring"
+msgstr "Pemantau Pengunjung Langsung"
+
+#: includes/translations.php:361
+msgid ""
+"If you would like to monitor details of users who are currently visiting "
+"your website and pages visited by them then you would need to choose enable "
+"or vice-versa from dropdown"
+msgstr ""
+"Jika anda menginginkan untuk memantau pengguna yang sedang berkunjung ke "
+"website secara detail, maka anda harus memilih untuk mengaktifkan atau "
+"menonaktifkan pada pilihan ini"
+
+#: includes/translations.php:362
+msgid "Visitor Logs Monitoring"
+msgstr "Log Pemantau Pengunjung"
+
+#: includes/translations.php:363
+msgid ""
+"If you would like to monitor details of users who are visiting your website "
+"and pages visited by them then you would need to choose enable or vice-versa "
+"from dropdown"
+msgstr ""
+"Jika anda menginginkan untuk memantau pengguna yang sedang berkunjung ke "
+"website secara detail, maka anda harus memilih untuk mengaktifkan atau "
+"menonaktifkan pada pilihan ini"
+
+#: includes/translations.php:364
+msgid "Remove Tables At Uninstall"
+msgstr "Remover tabelas na desinstalação"
+
+#: includes/translations.php:365
+msgid ""
+"If you would like to remove tables during uninstalling the Plugin then you "
+"would need to choose enable or vice-versa from dropdown"
+msgstr ""
+"Jika anda menginginkan untuk menghapus table pada saat uninstall plugin, "
+"maka anda harus memilih untuk mengaktifkan atau menonaktifkan pada pilihan "
+"ini"
+
+#: includes/translations.php:366
+msgid "Error Reporting"
+msgstr "Laporan Kesalahan"
+
+#: includes/translations.php:367
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Jika anda menginginkan untuk mempunyai Laporan Kesalahan pada Menu Log "
+"Kesalahan, maka anda harus memilih untuk mengaktifkan atau menonaktifkan "
+"pada pilihan ini"
+
+#: includes/translations.php:367
+msgid "How does Clean Up Optimizer get IPs"
+msgstr "Bagaimana caranya Clean Up Optimizer mendapatkan Alamat IP"
+
+#: includes/translations.php:368
+msgid ""
+"In this field, you would need to choose a specific option  for how does "
+"Clean Up Optimizer get IPs"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan opsi khusus mengenai "
+"bagaimana Clean Up Optimizer mendapatkan Alamat IP"
+
+#: includes/translations.php:369
+msgid ""
+"Let Clean Up Optimizer use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+"Biarkan Clean Up Optimizer menggunakan metode paling aman untuk mendapatkan "
+"Alamat IP pengunjung. Mencegah alamat bohong dan berhasil untuk sebagian "
+"besar situs. "
+
+#: includes/translations.php:370
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+"Gunakan REMOTE_ADDR PHP yang tersemat dan jangan menggunakan metode lainnya. "
+"Sangat aman jika kompatibel dengan situs anda."
+
+#: includes/translations.php:371
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+"Gunakan X-Forwarded-For HTTP header. Hanya digunakan jika anda mempunyai "
+"front-end proxy kalau tidak alamat IP bohong yang dihasilkan."
+
+#: includes/translations.php:372
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+"Gunakan X-Real-IP HTTP header. Hanya digunakan jika anda mempunyai front-end "
+"proxy kalau tidak alamat IP bohong yang dihasilkan."
+
+#: includes/translations.php:373
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+"Gunakan Cloudflare 'CF-Connecting-IP' HTTP header untuk mendapatkan IP "
+"pengunjung. Digunakan jika anda menggunakan Cloudflare."
+
+#: includes/translations.php:377
+msgid "Auto IP Block"
+msgstr "IP Blok Otomatis"
+
+#: includes/translations.php:378
+msgid ""
+"In this field, you would need to choose Enable to automatically block IP "
+"Addresses of users who exceeds their Maximum number of Login attempts"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengaktifkan IP blok otomatis untuk "
+"pengguna yang mencapai batas maksimal dari percobaan Login"
+
+#: includes/translations.php:379
+msgid "Maximum Login Attempts In a Day"
+msgstr "Batas Maksinal Percobaan Login dalam Satu Hari"
+
+#: includes/translations.php:380
+msgid ""
+"In this field, you would need to provide maximum number of login attempts in "
+"a day to restrict number of login attempts by users"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan nilai maksimal dari percobaan "
+"login dalam satu hari untuk membatasi jumlah percobaan login oleh pengguna"
+
+#: includes/translations.php:381
+msgid "Please provide Maximum Login Attempts in a Day"
+msgstr "Silahkan masukan nilai Maksimal Percobaan Login dalam satu Hari"
+
+#: includes/translations.php:382
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block an IP Address so that particular IP Address will be blocked "
+"for a fixed time interval"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan durasi waktu yang diinginkan "
+"untk memblok Alamat IP agar Alamat IP tertentu dapat di blok untuk interval "
+"waktu tersebut"
+
+#: includes/translations.php:386
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi Alamat IP yang valid yang ingin "
+"anda blok"
+
+#: includes/translations.php:387
+msgid ""
+"In this field, you would need to choose duration of time for which you would "
+"like to block IP Address"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan durasi yang diinginkan untuk "
+"memblok Alamat IP"
+
+#: includes/translations.php:388
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Addresses"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan komentar sebagai alasan "
+"memblokir Alamat IP ini"
+
+#: includes/translations.php:389
+msgid "Please provide Comments"
+msgstr "Silahkan berikan Komentar atau Alasan"
+
+#: includes/translations.php:390
+msgid "View Blocked IP Addresses"
+msgstr "Lihat Alamat IP yang diblok"
+
+#: includes/translations.php:391
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan tanggal awal untuk melihat "
+"informasi Alamat IP yang diblokir dalam rentang waktu tertentu"
+
+#: includes/translations.php:392
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Addresses which were blocked within a specified period"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan tanggal akhir untuk melihat "
+"informasi Alamat IP yang diblokir untuk rentang waktu tertentu"
+
+#: includes/translations.php:396
+msgid "Start IP Range"
+msgstr "Awal dari Range IP"
+
+#: includes/translations.php:397
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi Awal dari Range IP yang valid "
+"yang ingin anda blok"
+
+#: includes/translations.php:398
+msgid "Please provide Start IP Range"
+msgstr "Silahkan isi Awal dari Range IP"
+
+#: includes/translations.php:399
+msgid "End IP Range"
+msgstr "Akhir dari Range IP"
+
+#: includes/translations.php:400
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi Akhir dari Range IP yang ingin "
+"anda blok"
+
+#: includes/translations.php:401
+msgid "Please provide End IP Range"
+msgstr "Silahkan isi Akhir Range IP"
+
+#: includes/translations.php:402
+msgid ""
+"In this field, you would need to choose duration of time for which you would "
+"like to block these IP Ranges"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan durasi waktu untuk memblokir "
+"Range IP ini"
+
+#: includes/translations.php:403
+msgid "Block IP Range"
+msgstr "Blok Range IP"
+
+#: includes/translations.php:404
+msgid "View Blocked IP Ranges"
+msgstr "Lihat Range IP yang diblok"
+
+#: includes/translations.php:405
+msgid ""
+"In this field, you would need to choose start date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"Pada bagian ini, anda diminta untuk menentukan tanggal awal untuk melihat "
+"informasi Range IP yang sedang diblok untuk periode tertentu"
+
+#: includes/translations.php:406 includes/translations.php:589
+msgid "End Date"
+msgstr "Tanggal Akhir "
+
+#: includes/translations.php:407
+msgid "Please choose End Date"
+msgstr "Silahkan pilih Tanggal Akhir"
+
+#: includes/translations.php:408
+msgid ""
+"In this field, you would need to choose end date to view information about "
+"IP Ranges which were blocked within a specified period"
+msgstr ""
+"Pada bagian ini, Anda diminta memilih tanggal akhir untuk melihat informasi "
+"tentang Rentang IP yang diblokir dalam jangka waktu tertentu"
+
+#: includes/translations.php:409
+msgid ""
+"In this field, you would need to provide comments to give an overview about "
+"reason for blocking these IP Ranges"
+msgstr ""
+"Pada bagian ini, Anda diminta memberi komentar untuk memberi gambaran umum "
+"tentang alasan pemblokiran Rentang IP ini"
+
+#: includes/translations.php:413
+msgid "Available Countries"
+msgstr "Negara yang Tersedia"
+
+#: includes/translations.php:414
+msgid "List of all Countries"
+msgstr "Daftar dari Semua Negara"
+
+#: includes/translations.php:415
+msgid "Add >>"
+msgstr "Tambahkan >>"
+
+#: includes/translations.php:416
+msgid "<< Remove"
+msgstr "<< Hapus"
+
+#: includes/translations.php:417
+msgid "Blocked Countries"
+msgstr "Negara yang diblok"
+
+#: includes/translations.php:418
+msgid "List of all Countries being Blocked"
+msgstr "Daftar seluruh Negara yang sedang diblok"
+
+#: includes/translations.php:422
+msgid "Choose Email Template"
+msgstr "Silahkan Pilih Template Email"
+
+#: includes/translations.php:423
+msgid "Send To"
+msgstr "Kirim Ke"
+
+#: includes/translations.php:424
+msgid "CC"
+msgstr "CC"
+
+#: includes/translations.php:425
+msgid "BCC"
+msgstr "BCC"
+
+#: includes/translations.php:426
+msgid "Message"
+msgstr "Pesan"
+
+#: includes/translations.php:427
+msgid "In this field, you would need to choose Email Template from dropdown"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memilih Template Emil dari pilihan "
+"berikut"
+
+#: includes/translations.php:428
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"would like to send an email notification"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan alamat email yang aktif yang "
+"akan digunakan untuk menerima pemberitahuan"
+
+#: includes/translations.php:429
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan alamat email Cc yang aktif"
+
+#: includes/translations.php:430
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan alamat email Bcc yang aktif"
+
+#: includes/translations.php:431
+msgid "In this field, you would need to provide subject for email notification"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan subjek untuk email "
+"pemberitahuan"
+
+#: includes/translations.php:432
+msgid ""
+"In this field, you would need to provide content which has to be sent to the "
+"Administrator"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memberikan konten yang akan dikirim ke "
+"Administrator"
+
+#: includes/translations.php:433
+msgid "Template For User Successful Login"
+msgstr "Template untuk Pengguna yang Berhasil Login"
+
+#: includes/translations.php:434
+msgid "Template For User Failure Login"
+msgstr "Template untuk Pengguna yang Gagal Login"
+
+#: includes/translations.php:435
+msgid "Template For IP Address Blocked"
+msgstr "Template untuk Alamat IP yang Diblok"
+
+#: includes/translations.php:436
+msgid "Template For IP Address Unblocked"
+msgstr "Template untuk Alamat IP yang dibuka Blokirannya"
+
+#: includes/translations.php:437
+msgid "Template For IP Range Blocked"
+msgstr "Template untuk Range IP yang Dibuka Blokirannya"
+
+#: includes/translations.php:438
+msgid "Template For IP Range Unblocked"
+msgstr "Template untuk Range IP yang Dibuka Blokirannya"
+
+#: includes/translations.php:439
+msgid "Please provide valid Email Address"
+msgstr "Silahkan isi Alamat Email yang valid"
+
+#: includes/translations.php:440
+msgid "Please provide CC Email"
+msgstr "Silahkan isi CC Email"
+
+#: includes/translations.php:441
+msgid "Please provide BCC Email"
+msgstr "Silahkan isi BCC Email"
+
+#: includes/translations.php:442
+msgid "Please provide Subject"
+msgstr "Silahkan isi Subjek"
+
+#: includes/translations.php:446
+msgid "Show Clean Up Optimizer Menu"
+msgstr "Perlihatkan Menu Clean Up Optimizer"
+
+#: includes/translations.php:447
+msgid "Show Clean Up Optimizer Top Bar Menu"
+msgstr "Perlihatkan Top Menu Bar Clean Up Optimizer"
+
+#: includes/translations.php:448
+msgid "An Administrator Role can do the following"
+msgstr "Akun Administrator dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:449
+msgid "An Author Role can do the following"
+msgstr "Akun Penulis (Author) dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:450
+msgid "An Editor Role can do the following"
+msgstr "Akun Editor dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:451
+msgid "A Contributor Role can do the following"
+msgstr "Akun Kontributor dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:452
+msgid "A Subscriber Role can do the following"
+msgstr "Akun Subcriber dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:453
+msgid "Other Roles can do the following"
+msgstr "Akun Lainnya dapat melakukan hal dibawah ini"
+
+#: includes/translations.php:454
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/translations.php:455
+msgid "Author"
+msgstr "Penulis"
+
+#: includes/translations.php:456
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/translations.php:457
+msgid "Contributor"
+msgstr "Kontributor"
+
+#: includes/translations.php:458
+msgid "Subscriber"
+msgstr "Subscriber"
+
+#: includes/translations.php:459
+msgid "Others"
+msgstr "Lainnya"
+
+#: includes/translations.php:460
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr ""
+"Pada bagian ini,, anda diminta untuk menentukan jenis akun (role) yang dapat "
+"dilihat di Menu Sidebar"
+
+#: includes/translations.php:461
+msgid ""
+"If you would like to show Clean Up Optimizer Top Bar Menu then you would "
+"need to choose enable or vice-versa from dropdown"
+msgstr ""
+"Jika anda menginginkan untuk melihat Menu bagian atas dari Clean Up "
+"Optimiser maka anda diminta untuk memperbolehkan atau sebaliknya pada "
+"pilihan dibawah"
+
+#: includes/translations.php:462
+msgid ""
+"Administrators will have by default full control to manage different options "
+"in Clean Up Optimizer, so all checkboxes will be already selected for the "
+"Administrator Role as mentioned below"
+msgstr ""
+"Akun Administrator secara default memiliki akses kontrol penuh untuk "
+"mengelola berbagai opsi di dalam Clean Up Optimizer, jadi semua pilihan "
+"dapat dilakukan oleh Akun Administrator seperti tersebut dibawah ini"
+
+#: includes/translations.php:463
+msgid ""
+"You can choose what pages could be accessed by users having an Author Role "
+"and you can also choose additional capabilities that could be accessed by "
+"users on your Clean Up Optimizer for security purpose which is mentioned "
+"below in Author Role checkboxes"
+msgstr ""
+"Anda dapat memilih halaman apa yang dapat diakses oleh pengguna yang "
+"mempunyai akun Author, juga anda dapat memilih kemampuan tambahan yang dapat "
+"diakses di Clean Up Optimizer untuk keperluan keamanan sebagaimana "
+"disebutkan pada opsi akun Author dibawah"
+
+#: includes/translations.php:464
+msgid ""
+"You can choose what pages could be accessed by the users having an Editor "
+"Role and you can also choose additional capabilities that could be accessed "
+"by users on your Clean Up Optimizer for security purpose which is mentioned "
+"below in Editor Role checkboxes"
+msgstr ""
+"Anda dapat memilih halaman apa yang dapat diakses oleh pengguna yang "
+"mempunyai akun Editor, juga anda dapat memilih kemampuan tambahan yang dapat "
+"diakses di Clean Up Optimizer untuk keperluan keamanan sebagaimana "
+"disebutkan pada opsi akun Editor dibawah"
+
+#: includes/translations.php:465
+msgid ""
+"You can choose what pages could be accessed by the users having a "
+"Contributor Role and you can also choose additional capabilities that could "
+"be accessed by users on your Clean Up Optimizer for security purpose which "
+"is mentioned below in Contributor Role checkboxes"
+msgstr ""
+"Anda dapat memilih halaman apa yang dapat diakses oleh pengguna yang "
+"mempunyai akun Kontributor, juga anda dapat memilih kemampuan tambahan yang "
+"dapat diakses di Clean Up Optimizer untuk keperluan keamanan sebagaimana "
+"disebutkan pada opsi akun Kontributor dibawah"
+
+#: includes/translations.php:466
+msgid ""
+"You can choose what pages could be accessed by the users having a Subscriber "
+"Role and you can also choose additional capabilities that could be accessed "
+"by users on your Clean Up Optimizer for security purpose which is mentioned "
+"below in Subscriber Role checkboxes"
+msgstr ""
+"Anda dapat memilih halaman apa yang dapat diakses oleh pengguna yang "
+"mempunyai akun Subscriber, juga anda dapat memilih kemampuan tambahan yang "
+"dapat diakses di Clean Up Optimizer untuk keperluan keamanan sebagaimana "
+"disebutkan pada opsi akun Subscriber dibawah"
+
+#: includes/translations.php:467
+msgid ""
+"You can choose what pages could be accessed by the users having an Others "
+"Role and you can also choose additional capabilities that could be accessed "
+"by users on your Clean Up Optimizer for security purpose which is mentioned "
+"below in Others Role checkboxes"
+msgstr ""
+"Anda dapat memilih halaman apa yang dapat diakses oleh pengguna yang "
+"mempunyai akun Others, juga anda dapat memilih kemampuan tambahan yang dapat "
+"diakses di Clean Up Optimizer untuk keperluan keamanan sebagaimana "
+"disebutkan pada opsi akun Others dibawah"
+
+#: includes/translations.php:468
+msgid "Full Control"
+msgstr "Kontrol Penuh"
+
+#: includes/translations.php:469
+msgid ""
+"In this field, you would need to choose appropriate capabilities for "
+"security purposes"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memilih kemampuan pengaturan keamanan"
+
+#: includes/translations.php:470
+msgid ""
+"In this field, only users can access to these capabilities of Clean up "
+"Optimizer"
+msgstr ""
+"Pada bagian ini, hanya pengguna yang memiliki akun terdaftar yang dapat "
+"mengakses fitur Clean Up Optimizer"
+
+#: includes/translations.php:473
+msgid "Thank You!"
+msgstr "Terima Kasih!"
+
+#: includes/translations.php:474
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Silahkan isi formulir dibawah, jika anda ingin memberikan sarang mengenai "
+"fitur yang belum tersedia di Plugin"
+
+#: includes/translations.php:475
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Jika anda mempunyai saran atau kritik, anda dapat menggunakan formulir yang "
+"sama"
+
+#: includes/translations.php:476
+msgid "You can also write us on"
+msgstr "Anda juga dapat mengirimkan pesan untuk kami di"
+
+#: includes/translations.php:477
+msgid "Your Name"
+msgstr "Nama Anda"
+
+#: includes/translations.php:478
+msgid "Your Email"
+msgstr "Alamat Emal Anda"
+
+#: includes/translations.php:479
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your Feature Request"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi nama anda yang akan dikirimkan "
+"bersamaan dengan permintaan fitur anda"
+
+#: includes/translations.php:480
+msgid ""
+"In this field, you would need to provide your valid Email Address which will "
+"be sent along with your Feature Request"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi Alamat Email anda yang akan "
+"dikirimkan bersamaan dengan permintaan fitur anda"
+
+#: includes/translations.php:481
+msgid ""
+"In this field, you would need to provide a feature which you would like to "
+"request to be added to this Plugin"
+msgstr ""
+"Pada bagian ini, anda diminta untuk mengisi fitur apa yang ingin diminta "
+"untuk ditambahkan ke Plugin"
+
+#: includes/translations.php:482
+msgid "Please provide your Name"
+msgstr "Silahkan isi Nama Anda"
+
+#: includes/translations.php:483
+msgid "Please provide your Email"
+msgstr "Silahkan isi Alamat Email Anda"
+
+#: includes/translations.php:484
+msgid "Please provide your Feature Request"
+msgstr "Silahkan isi Permintaan Pengembangan"
+
+#: includes/translations.php:485
+msgid "Send Request"
+msgstr "Kirimkan Permintaan"
+
+#: includes/translations.php:488
+msgid "Error Logs"
+msgstr "Log Error"
+
+#: includes/translations.php:489
+msgid "In this field you would be able to see all Php Errors"
+msgstr "Pada bagian ini anda dapat melihal semua Error PHP"
+
+#: includes/translations.php:490
+msgid "Download Error Logs"
+msgstr "Unduh Log Error"
+
+#: includes/translations.php:491
+msgid "Clear Error Logs"
+msgstr "Bersihkan Log Error"
+
+#: includes/translations.php:492
+msgid "Output"
+msgstr "Hasil"
+
+#: includes/translations.php:496
+msgid "Type Of Data"
+msgstr "Tipe Data"
+
+#: includes/translations.php:497
+msgid "Count"
+msgstr "Hitung"
+
+#: includes/translations.php:498
+msgid "Auto Drafts"
+msgstr "Draf Otomatis"
+
+#: includes/translations.php:499
+msgid ""
+"WordPress automatically saves Pages or Posts as a draft in WordPress "
+"Database. This is called an Auto Draft. You could have multiple Auto Drafts "
+"that you will never publish and hence you can clean them"
+msgstr ""
+"Wordpress secara otomatis menyimpan Halaman atau Tulisan sebagai draf di "
+"Database Wordpress. Hal ini disebut Auto Draft. Anda dapat memiliki beberapa "
+"versi Auto Draft yang tidak akan di terbitkan oleh karena itu anda dapat "
+"membersihkannya"
+
+#: includes/translations.php:500
+msgid "Empty"
+msgstr "Kosong"
+
+#: includes/translations.php:501
+msgid "Dashboard Transient Feed"
+msgstr "Dasbor Feed yang Usang"
+
+#: includes/translations.php:502
+msgid ""
+"Transients Feed in WordPress allow developers to store information in your "
+"WordPress Database with an expiration time"
+msgstr ""
+"Transients Feed di WordPress memungkinkan pengembang untuk menyimpan "
+"informasi di Database WordPress Anda dengan waktu kadaluarsa"
+
+#: includes/translations.php:503
+msgid "Unapproved Comments"
+msgstr "Komentar yang belum disetujui"
+
+#: includes/translations.php:504
+msgid ""
+"Unapproved Comments in WordPress are those comments which are still pending "
+"to be approved"
+msgstr ""
+"Komentar yang belum disetujui (Unapproved) di WordPress adalah komentar yang "
+"masih menunggu persetujuan"
+
+#: includes/translations.php:505
+msgid "Orphan Comments Meta"
+msgstr "Meta Komentar yang Usang"
+
+#: includes/translations.php:506
+msgid ""
+"Orphan Comments Meta in WordPress holds miscellaneous bits of extra "
+"information of comment"
+msgstr ""
+"Meta Orphan Comments di WordPress mengandung banyak informasi tambahan "
+"tentang komentar"
+
+#: includes/translations.php:507
+msgid "Orphan Posts Meta"
+msgstr "Meta Post yang Usang"
+
+#: includes/translations.php:508
+msgid ""
+"Orphan Posts Meta in WordPress is Meta Data belonging to posts which no "
+"longer exist"
+msgstr ""
+"Meta Orphan Post di WordPress adalah Meta Data milik posting yang sudah "
+"tidak ada lagi"
+
+#: includes/translations.php:509
+msgid "Orphan Relationships"
+msgstr "Orphan Relationships"
+
+#: includes/translations.php:510
+msgid ""
+"Orphan Relationships in WordPress hold junk or obsolete Category and Tag"
+msgstr ""
+"Orphan Relationships di WordPress menyimpan sampah atau Kategori yang usang "
+"dan juga Tag Usang"
+
+#: includes/translations.php:511
+msgid "Revisions"
+msgstr "Revisi"
+
+#: includes/translations.php:512
+msgid ""
+"WordPress Revisions system stores a record of each saved draft or published "
+"an update"
+msgstr ""
+"WordPress Revisions system menyimpan catatan setiap draf yang tersimpan atau "
+"pembaharuan dari penerbitan"
+
+#: includes/translations.php:513
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: includes/translations.php:514
+msgid ""
+"In WordPress, Ping-back is a type of comment that is created when you link "
+"to another blog post where Ping backs are enabled"
+msgstr ""
+"Di WordPress, Ping-back adalah jenis komentar yang dibuat saat Anda "
+"menautkan ke pos blog lain dimana Ping back diaktifkan"
+
+#: includes/translations.php:515
+msgid "Transient Options"
+msgstr "Opsi yang usang"
+
+#: includes/translations.php:516
+msgid "Transient Options are like a basic cache system used by WordPress"
+msgstr ""
+"Opsi Transient seperti sistem cache dasar yang digunakan oleh WordPress"
+
+#: includes/translations.php:518
+msgid ""
+"In WordPress, Trackbacks are a way to notify legacy blog systems that you "
+"have linked to them"
+msgstr ""
+"Di WordPress, Trackbacks adalah cara untuk memberi tahu sistem blog lawas "
+"yang telah Anda kaitkan dengannya"
+
+#: includes/translations.php:519
+msgid "Spam Comments"
+msgstr "Komentar Spam"
+
+#: includes/translations.php:520
+msgid "Spam Comments are unwanted comments in WordPress Database"
+msgstr ""
+"Komentar spam adalah komentar yang tidak diinginkan di Database WordPress"
+
+#: includes/translations.php:521
+msgid "Trash Comments"
+msgstr "Komentar di Tong Sampah"
+
+#: includes/translations.php:522
+msgid ""
+"Trash Comments are  comments which are stored in WordPress Trash after "
+"deletion"
+msgstr ""
+"Trash Comments adalah komentar yang disimpan di Sampah WordPress setelah "
+"penghapusan"
+
+#: includes/translations.php:523
+msgid "Drafts"
+msgstr "Draf"
+
+#: includes/translations.php:524
+msgid "Drafts are New Post or Page created as Draft in WordPress"
+msgstr ""
+"Draf adalah Tulisan Baru atau Halaman yang dibuat sebagai Draft di WordPress"
+
+#: includes/translations.php:525
+msgid "Deleted Posts"
+msgstr "Post yang Dihapus"
+
+#: includes/translations.php:526
+msgid "Deleted Posts are posts which are removed from WordPress Database"
+msgstr "Deleted Posts adalah posting yang dihapus dari WordPress Database"
+
+#: includes/translations.php:527
+msgid "Duplicated Post Meta"
+msgstr "Meta Post yang Duplikat"
+
+#: includes/translations.php:528
+msgid ""
+"Duplicated Post Meta is duplicated values of Posts stored in a Posts Table "
+"in WordPress Database"
+msgstr ""
+"Duplicated Post Meta adalah nilai duplikat Tulisan yang tersimpan dalam "
+"Tabel Posts di Database WordPress"
+
+#: includes/translations.php:529
+msgid "oEmbed Caches in Post Meta"
+msgstr "Embed Caches di Post Meta"
+
+#: includes/translations.php:530
+msgid ""
+"oEmbed Caches in Post Meta hold data related to Embeddable Content in "
+"WordPress Database"
+msgstr ""
+"Embed Caches dalam data Post Meta hold yang berhubungan dengan Content yang "
+"Dapat Di-Embed di Database WordPress"
+
+#: includes/translations.php:531
+msgid "Duplicated Comment Meta"
+msgstr "Meta Komentar yang Duplikat"
+
+#: includes/translations.php:532
+msgid ""
+"Duplicated Comment Meta holds information of Duplicate Comments in Comments "
+"Table in WordPress Database"
+msgstr ""
+"Duplicated Comment Meta memegang informasi tentang Komentar Duplikat di "
+"Tabel Comments di Database WordPress"
+
+#: includes/translations.php:533
+msgid "Orphan User Meta"
+msgstr "Orphan User Meta"
+
+#: includes/translations.php:534
+msgid ""
+"Orphan User Meta holds orphan data of an Usermeta table in WordPress Database"
+msgstr ""
+"Orphan User Meta menyimpan data yatim piatu dari tabel Meta User di Database "
+"WordPress"
+
+#: includes/translations.php:535
+msgid "Duplicated User Meta"
+msgstr "Meta Pengguna yang Usang"
+
+#: includes/translations.php:536
+msgid ""
+"Duplicated User Meta holds information of Duplicate user meta data in "
+"WordPress Database"
+msgstr ""
+"Duplicated User Meta Menyimpan informasi data meta pengguna duplikat di "
+"Database WordPress"
+
+#: includes/translations.php:537
+msgid "Orphaned Term Relationships"
+msgstr "Term Raltionship yang Usang"
+
+#: includes/translations.php:538
+msgid ""
+"Orphaned Term Relationships hold junk or obsolete term Category and Tag in "
+"WordPress Database"
+msgstr ""
+"Orphaned Term Relationships menyimpan sampah atau Kategori usang juga Tag di "
+"Database Wordpress"
+
+#: includes/translations.php:539
+msgid "Unused Terms"
+msgstr "Term yang tidak digunakan"
+
+#: includes/translations.php:540
+msgid "Unused Terms hold term data which are not used by WordPress"
+msgstr ""
+"Unused Terms menyimpan term data yang tidak digunakan lagi oleh Wordpress"
+
+#: includes/translations.php:542
+msgid "Type"
+msgstr "Tipe"
+
+#: includes/translations.php:543
+msgid "Start Date & Time"
+msgstr "Tanggal & Waktu Awal"
+
+#: includes/translations.php:545
+msgid "Update Schedule"
+msgstr "Perbaharui Penjadwalan"
+
+#: includes/translations.php:546
+msgid ""
+"If you would like to empty selected types of data on a schedule then you "
+"would need to choose an Action from dropdown"
+msgstr ""
+"Jika Anda ingin mengosongkan jenis data yang dipilih pada jadwal, Anda harus "
+"memilih Tindakan dari dropdown"
+
+#: includes/translations.php:547
+msgid ""
+"In this field, you would need to choose Time Duration for schedule to run. "
+"It could be Hourly or Daily"
+msgstr ""
+"Pada bagian ini, Anda diminta untuk memilih Durasi Waktu untuk jadwal yang "
+"akan dijalankan. Bisa jadi Per Jam atau Harian"
+
+#: includes/translations.php:549
+msgid "Table Name"
+msgstr "Nama Tabel"
+
+#: includes/translations.php:551
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: includes/translations.php:552
+msgid "Blocked For"
+msgstr "Diblokir Untuk"
+
+#: includes/translations.php:560
+msgid "Never"
+msgstr "Tidak Pernah"
+
+#: includes/translations.php:561
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/translations.php:562
+msgid "for"
+msgstr "untuk"
+
+#: includes/translations.php:564
+msgid "Apply"
+msgstr "Terapkan"
+
+#: includes/translations.php:565
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/translations.php:566
+msgid "Block IP Address"
+msgstr "Blok Alamat IP"
+
+#: includes/translations.php:567
+msgid "IP Address"
+msgstr "Alamat IP"
+
+#: includes/translations.php:568
+msgid "Duration"
+msgstr "Durasi"
+
+#: includes/translations.php:569
+msgid "Blocked Date & Time"
+msgstr "Tanggal & Waktu Diblokir"
+
+#: includes/translations.php:570
+msgid "Release Date & Time"
+msgstr "Tanggal & Waktu Dilepaskan"
+
+#: includes/translations.php:571
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/translations.php:573
+msgid "Hourly"
+msgstr "Per Jam"
+
+#: includes/translations.php:574
+msgid "Daily"
+msgstr "Per Hari"
+
+#: includes/translations.php:575
+msgid "Start On"
+msgstr "Dimulai Pada"
+
+#: includes/translations.php:576
+msgid "Please choose Start On"
+msgstr "Silahkan Pilih Dimulai Pada"
+
+#: includes/translations.php:577
+msgid "In this field, you would need to choose start date for scheduler to run"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memilih tanggal awal untuk penjadwalan "
+"mulai berjalan"
+
+#: includes/translations.php:578
+msgid "Start Time"
+msgstr "Waktu Dimulai"
+
+#: includes/translations.php:579
+msgid ""
+"In this field, you would need to choose a start time for scheduler to run at"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memilih waktu mulai untuk penjadwalan "
+"mulai berjalan"
+
+#: includes/translations.php:580
+msgid "Repeat Every"
+msgstr "Ulangi Setiap"
+
+#: includes/translations.php:581
+msgid ""
+"In this field, you would need to choose Repetition for the scheduler. The "
+"scheduler would be run on selected values from dropdown"
+msgstr ""
+"Pada bagian ini, anda diminta untuk memilih pengulangan dari penjadwalan. "
+"Penjadwalan akan berjalan sesuai dengan pilihan berikut"
+
+#: includes/translations.php:582
+msgid " hrs"
+msgstr "Jam"
+
+#: includes/translations.php:583
+msgid " mins"
+msgstr "Menit"
+
+#: includes/translations.php:585
+msgid "IP Ranges"
+msgstr "Range IP"
+
+#: includes/translations.php:587
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+
+#: includes/translations.php:588
+msgid "Please choose Start Date"
+msgstr "Silahkan menentukan tanggal mulai"
+
+#: includes/translations.php:590
+msgid "Submit"
+msgstr "Kirimkan"
+
+#: includes/translations.php:591
+msgid "User Name"
+msgstr "Nama Pengguna"
+
+#: includes/translations.php:592
+msgid "Date & Time"
+msgstr "Tanggal dan Waktu"
+
+#: includes/translations.php:593
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:594
+msgid "Details"
+msgstr "Detail"
+
+#: includes/translations.php:595
+msgid "Name of the Hook"
+msgstr "Nama dari Hook"
+
+#: includes/translations.php:596
+msgid "Interval Hook"
+msgstr "Interval Hook"
+
+#: includes/translations.php:597
+msgid "Args"
+msgstr "Args"
+
+#: includes/translations.php:598
+msgid "Next Execution"
+msgstr "Eksekusi Selanjutnya"
+
+#: includes/translations.php:599
+msgid "Subject"
+msgstr "Subjek"
+
+#: includes/translations.php:600
+msgid "Bulk Action"
+msgstr "Aksi Massal"
+
+#: includes/translations.php:601
+msgid "Action"
+msgstr "Aksi"
+
+#: includes/translations.php:602
+msgid "Optimize"
+msgstr "Optimalkan"
+
+#: includes/translations.php:603
+msgid "Repair"
+msgstr "Perbaiki"
+
+#: includes/translations.php:605 includes/translations.php:627
+msgid "Roles & Capabilities"
+msgstr "Peran dan Kemampuan"
+
+#: includes/translations.php:606
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: includes/translations.php:607
+msgid "WP Optimizer"
+msgstr "Pengoptimalan WP"
+
+#: includes/translations.php:608
+msgid "WP Scheduler Optimizer"
+msgstr "Jadwal Pengoptimalan WP"
+
+#: includes/translations.php:609
+msgid "DB Optimizer"
+msgstr "Pengoptimalan DB"
+
+#: includes/translations.php:610
+msgid "Scheduler DB Optimizer"
+msgstr "Jadwal Pengoptimalan DB"
+
+#: includes/translations.php:611
+msgid "Add New Schedule"
+msgstr "Tambahkan Jadwal Baru"
+
+#: includes/translations.php:612
+msgid "View Records"
+msgstr "Lihat Catatan"
+
+#: includes/translations.php:613
+msgid "Logs"
+msgstr "Log"
+
+#: includes/translations.php:614
+msgid "Login Logs"
+msgstr "Login Log"
+
+#: includes/translations.php:615
+msgid "Live Traffic"
+msgstr "Pengunjung yang Sedang Aktif"
+
+#: includes/translations.php:616
+msgid "Visitor Logs"
+msgstr "Log Pengunjung"
+
+#: includes/translations.php:617
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: includes/translations.php:618
+msgid "Notifications Setup"
+msgstr "Pengaturan Pemberitahuan"
+
+#: includes/translations.php:619
+msgid "Message Settings"
+msgstr "Pengaturan Pesan"
+
+#: includes/translations.php:620
+msgid "Other Settings"
+msgstr "Pengaturan Lainnya"
+
+#: includes/translations.php:621
+msgid "Security Settings"
+msgstr "Pengaturan Keamanan"
+
+#: includes/translations.php:622
+msgid "Blockage Settings"
+msgstr "Pengaturan Pemblokiran"
+
+#: includes/translations.php:623
+msgid "Block / Unblock IP Addresses"
+msgstr "Blok / Buka Blokir Alamat IP"
+
+#: includes/translations.php:624
+msgid "Block / Unblock IP Ranges"
+msgstr "Blok / Buka Blokir Range IP"
+
+#: includes/translations.php:625
+msgid "Block / Unblock Countries"
+msgstr "Blok / Buka Blokir Negara"
+
+#: includes/translations.php:626
+msgid "Email Templates"
+msgstr "Template Email"
+
+#: includes/translations.php:628
+msgid "Cron Jobs"
+msgstr "Cron Jobs"
+
+#: includes/translations.php:629
+msgid "Custom Jobs"
+msgstr "Jobs Kustom"
+
+#: includes/translations.php:630
+msgid "Core Jobs"
+msgstr "Jobs Inti"
+
+#: includes/translations.php:631
+msgid "Feature Requests"
+msgstr "Permintaan Fitur"
+
+#: includes/translations.php:632
+msgid "System Information"
+msgstr "Informasi System"
+
+#: includes/translations.php:633
+msgid "Licensing"
+msgstr "Perizinan"
+
+#: includes/translations.php:634
+msgid "Enable"
+msgstr "Hidupkan"
+
+#: includes/translations.php:635
+msgid "Disable"
+msgstr "Matikan"
+
+#: includes/translations.php:636
+msgid "Clean Up Optimizer"
+msgstr "Clean Up Optimizer"
+
+#: includes/translations.php:637
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: includes/translations.php:638
+msgid ""
+"You do not have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Anda tidak memiliki hak akses untuk halaman ini. Silahkan menghubungi "
+"Administrator untuk Hak Akses tersebut"
+
+#: includes/translations.php:639
+msgid "Block"
+msgstr "Blok"
+
+#: includes/translations.php:640
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: includes/translations.php:641
+msgid "Premium Editions"
+msgstr "Edisi Premium"
+
+#~ msgid "Notification Setup has been updated Successfully"
+#~ msgstr "Pengaturan Pemberitahuan berhasil diperbaharui"
+
+#~ msgid "Selected IP Addresses have been deleted Successfully"
+#~ msgstr "Alamat IP yang dipilih telah berhasil dihapus"
+
+#~ msgid "Selected IP Ranges have been deleted Successfully"
+#~ msgstr "Range IP yang terpilih telah berhasil dihapus"
+
+#~ msgid "Messages Settings have been updated Successfully"
+#~ msgstr "Pengaturan Pesan telah berhasil diperbaharui"
+
+#~ msgid "Roles and Capabilities have been saved Successfully"
+#~ msgstr "Peran dan Kemampuan telah berhasil disimpan"
+
+#~ msgid "License has been activated Successfully"
+#~ msgstr "Lisensi telah berhasil diaktifkan"
+
+#~ msgid "Email Templates have been saved Successfully"
+#~ msgstr "Template Email telah berhasil disimpan"
+
+#~ msgid "Selected Login Logs have been deleted Successfully"
+#~ msgstr "Riwayat Login terpilih telah berhasil dihapus"
+
+#~ msgid "Selected Traffic Logs have been deleted Successfully"
+#~ msgstr "Riwayat penelusuran terpilih telah berhasil dihapus"
+
+#~ msgid "Selected Visitor Logs have been deleted Successfully"
+#~ msgstr "Riwayat Pengunjung yang dipilh telah berhasil dihapus"
+
+#~ msgid "Selected Visitor Logs IP Address have been Blocked Successfully"
+#~ msgstr "Riwayat Alamat IP Pengunjung telah berhasil di blokir"
+
+#~ msgid "Selected Login Logs IP Address have been Blocked Successfully"
+#~ msgstr "Riwayat Alamat IP yang dipilih telah berhasil diblokir"
+
+#~ msgid "Selected Live Traffic Logs IP Address have been Blocked Successfully"
+#~ msgstr ""
+#~ "Riwayat Alamat IP Pengunjung yang sedang tayang telah berhasil diblokir"
+
+#~ msgid "Selected Tables have been cleaned Successfully"
+#~ msgstr "Tabel yang Terpilih telah berhasil dibersihkan"
+
+#~ msgid "Selected Countries have been blocked Successfully"
+#~ msgstr "Negara yang terpilih telah berhasil diblokir"
+
+#~ msgid "Selected Countries have been unblocked Successfully"
+#~ msgstr "Negara yang terpilih telah berhasil dibuka Blokirannya"
+
+#~ msgid "A Scheduler has been scheduled Successfully"
+#~ msgstr "Penjadwalan telah berhasil dijadwalkan"
+
+#~ msgid "Scheduled Scheduler has been updated Successfully"
+#~ msgstr "Penjadwalan telah berhasil diperbaharui"
+
+#~ msgid "Selected Records have been deleted Successfully"
+#~ msgstr "Catatan terpilih telah berhasil dihapus"
+
+#~ msgid "A Record has been deleted Successfully"
+#~ msgstr "Sebuah Catatan telah berhasil dihapus"
+
+#~ msgid "Please choose at least 1 record to Block!"
+#~ msgstr "Silahkan pilih paling tidak 1 catatan untuk diblokir!"
+
+#~ msgid "Are you sure you want to Block?"
+#~ msgstr "Apakah anda yakin akan memblokir?"
+
+#~ msgid ""
+#~ "If you would like to Empty selected types of data on a given schedule "
+#~ "then you would need to choose an Action from dropdown"
+#~ msgstr ""
+#~ "Jika Anda ingin Mengosongkan jenis data yang dipilih pada jadwal "
+#~ "tertentu, Anda harus memilih Tindakan dari dropdown"
+
+#~ msgid ""
+#~ "If you would like to Optimize, Repair, Delete or Empty selected types of "
+#~ "tables on a given schedule then you would need to choose an Action from "
+#~ "dropdown"
+#~ msgstr ""
+#~ "Jika Anda ingin Mengoptimalkan, Memperbaiki, Menghapus atau Mengosongkan "
+#~ "jenis tabel yang dipilih pada jadwal tertentu, Anda harus memilih "
+#~ "Tindakan dari dropdown."
+
+#~ msgid "Please choose at least 1 Type of Data for scheduling!"
+#~ msgstr "Harap pilih setidaknya 1 Tipe Data untuk penjadwalan!"
+
+#~ msgid "Please choose at least 1 record to empty!"
+#~ msgstr "Silahkan pilih minimal 1 catatan untuk dikosongkan!"
+
+#~ msgid "Please choose at least 1 Table Name for scheduling!"
+#~ msgstr "Harap pilih minimal 1 Nama Tabel untuk penjadwalan!"
+
+#~ msgid "Selected Table has been cleaned Successfully"
+#~ msgstr "Tabel yang dipilih telah berhasil dibersihkan"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Optimizer "
+#~ "Developer Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Selamat! Anda baru saja membeli Clean Up Optimizer Developer Edition dan "
+#~ "sekarang Anda diminta untuk mengaktifkan lisensi untuk membukanya!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Mohon isi rincian yang diperlukan dan klik Validasi Lisensi untuk "
+#~ "membukanya"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr ""
+#~ "Jika Anda mendapatkan masalah pada saat aktifasi lisensi, Anda dapat "
+#~ "menghubungi kami di"
+
+#~ msgid "Product Name"
+#~ msgstr "Nama Produk"
+
+#~ msgid "Current Version"
+#~ msgstr "Versi Sekarang"
+
+#~ msgid "Website URL"
+#~ msgstr "URL Website"
+
+#~ msgid "Order ID"
+#~ msgstr "ID Pemesanan"
+
+#~ msgid "API KEY"
+#~ msgstr "API KEY"
+
+#~ msgid "Validate License"
+#~ msgstr "Validasi Perizinan"
+
+#~ msgid "In this field, you would be able to see your Installed Product Name"
+#~ msgstr "Pada bagian ini, anda dapat melihat Nama Produk yang di install"
+
+#~ msgid ""
+#~ "In this field, you would be able to see your Installed Product Version"
+#~ msgstr ""
+#~ "Pada bagian ini, anda dapat melihat Versi dari Produk yang di install"
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "Pada bagian ini, anda dapat melihat alamat URL dari Website anda"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Pada bagian ini, Anda diminta memberikan ID Pemesanan Anda yang telah "
+#~ "Anda terima melalui email setelah membeli produk email yang dikirim "
+#~ "beserta link unduhan. Ini akan digunakan untuk Memvalidasi Lisensi"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key which you have "
+#~ "received in an email after purchasing the product along with a download "
+#~ "link. This will be used for Validating License"
+#~ msgstr ""
+#~ "Pada bagian ini, Anda diminta memberikan Kunci API yang telah Anda terima "
+#~ "melalui email setelah membeli produk email yang dikirim beserta link "
+#~ "unduhan. Ini akan digunakan untuk Memvalidasi Lisensi"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr ""
+#~ "Mohon masukan kode ID Pesanan yang diterima setelah melakukan pembelian"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Mohon masukan kode API yang diterima setelah melakukan pembelian"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Optimizer "
+#~ "Personal Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Selamat! Anda baru saja membeli \"Clean Up Optimizer Personal Edition\" "
+#~ "mohon lakukan aktivasi lisensi untuk membuka fitur khususnya."
+
+#~ msgid "Business Edition"
+#~ msgstr "Edisi Business"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Edition! <br/> "
+#~ "Kindly Purchase to unlock it!"
+#~ msgstr ""
+#~ "Fitur ini hanya tersedia di dalam Edisi Business and Developer! <br/> "
+#~ "Silahkan lakukan pembelian untuk membuka fitur tersebut!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased the Clean Up Optimizer "
+#~ "Business Edition and now you need to activate the license in order to "
+#~ "unlock it!"
+#~ msgstr ""
+#~ "Selamat! Anda baru saja membeli \"Clean Up Optimizer Business Edition\" "
+#~ "mohon lakukan aktivasi lisensi untuk membuka fitur khususnya."
